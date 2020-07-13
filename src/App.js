@@ -15,6 +15,7 @@ function App() {
   return (
     <div className="App">
       <h1>App Components</h1>
+      <Sample></Sample>
       <ToDoList></ToDoList>
     </div>
   );
