@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tdlReactApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tdlReactApp/static/js/main.c0cb4caf.chunk.js",
+    "main.js.map": "/tdlReactApp/static/js/main.c0cb4caf.chunk.js.map",
+    "runtime-main.js": "/tdlReactApp/static/js/runtime-main.8b0aedb1.js",
+    "runtime-main.js.map": "/tdlReactApp/static/js/runtime-main.8b0aedb1.js.map",
+    "static/js/2.a0ce437b.chunk.js": "/tdlReactApp/static/js/2.a0ce437b.chunk.js",
+    "static/js/2.a0ce437b.chunk.js.map": "/tdlReactApp/static/js/2.a0ce437b.chunk.js.map",
+    "index.html": "/tdlReactApp/index.html",
+    "precache-manifest.b35be8f64717642ce445e8bc3b93746e.js": "/tdlReactApp/precache-manifest.b35be8f64717642ce445e8bc3b93746e.js",
+    "service-worker.js": "/tdlReactApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tdlReactApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a0ce437b.chunk.js.LICENSE.txt": "/tdlReactApp/static/js/2.a0ce437b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tdlReactApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b0aedb1.js",
+    "static/js/2.a0ce437b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c0cb4caf.chunk.js"
+  ]
+}
